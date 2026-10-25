@@ -1,0 +1,8 @@
+{
+  "name": "Drain Pulse FloodWatch - Guayaquil",
+  "description": "Smart Flood Monitoring and Emergency Route Intelligence for Guayaquil, Ecuador. Built for HACK2IMPACT 2026 Heavy Rain & Flood Resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
